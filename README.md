@@ -20,6 +20,7 @@ RESTful приложение для заказа товаров.
 * Обычная трёхслойная
   архитектура – Controller, Service, Repository
 * Слой Repository реализован на JPA (Hibernate)
+* Для стандартизированного описания RESTful API использовался openAPI
 
 # Тесты
 

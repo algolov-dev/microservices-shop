@@ -1,3 +1,12 @@
 [submodule "product-service"]
 	path = product-service
 	url = git@github.com:algolov-dev/product-service.git
+[submodule "orderService"]
+	path = orderService
+	url = git@github.com:algolov-dev/orderService.git
+[submodule "inventoryService"]
+	path = inventoryService
+	url = git@github.com:algolov-dev/inventoryService.git
+[submodule "api-gateway"]
+	path = api-gateway
+	url = git@github.com:algolov-dev/api-gateway.git

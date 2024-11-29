@@ -1,1 +1,3 @@
-# microservices-shop
+# microservices - shop
+
+Репозиторий для всего проекта

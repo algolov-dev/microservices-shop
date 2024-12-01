@@ -10,3 +10,6 @@
 [submodule "api-gateway"]
 	path = api-gateway
 	url = git@github.com:algolov-dev/api-gateway.git
+[submodule "shop-frontend"]
+	path = shop-frontend
+	url = git@github.com:algolov-dev/shop-frontend.git

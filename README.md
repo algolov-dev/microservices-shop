@@ -21,6 +21,7 @@ RESTful приложение для заказа товаров.
   архитектура – Controller, Service, Repository
 * Слой Repository реализован на JPA (Hibernate)
 * Для стандартизированного описания RESTful API использовался openAPI
+* Resilience4j для повышения отказоустойчивости
 
 # Тесты
 

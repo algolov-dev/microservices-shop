@@ -13,3 +13,6 @@
 [submodule "shop-frontend"]
 	path = shop-frontend
 	url = git@github.com:algolov-dev/shop-frontend.git
+[submodule "notificationService"]
+	path = notificationService
+	url = git@github.com:algolov-dev/notificationService.git
